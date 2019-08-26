@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__
+.venv
+.env
+.pytest_cache
+.coverage
+.vscode
+.cache
+.ipynb_checkpoints
