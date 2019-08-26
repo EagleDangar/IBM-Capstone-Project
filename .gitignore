@@ -6,4 +6,4 @@ __pycache__
 .coverage
 .vscode
 .cache
-#.ipynb_checkpoints
+.ipynb_checkpoints
